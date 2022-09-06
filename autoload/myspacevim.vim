@@ -5,3 +5,6 @@ function! myspacevim#before() abort
     inoremap kj <Esc>
 endfunction
 
+let g:spacevim_custom_plugins = [
+\ ['wakatime/vim-wakatime'],
+\ ]
