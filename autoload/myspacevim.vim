@@ -7,4 +7,5 @@ endfunction
 
 let g:spacevim_custom_plugins = [
 \ ['wakatime/vim-wakatime'],
+\ ['rescript-lang/vim-rescript'],
 \ ]
